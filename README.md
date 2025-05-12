@@ -1,4 +1,4 @@
-onclusion / README
+Conclusion / README
 Case Title: IOC 7 – HR Email Phish with Fake Login Portal
 Primary Threat: Credential harvesting via impersonated HR communication
 Triage Type: Social Engineering / Obfuscated Link
